@@ -1,4 +1,4 @@
-# TUNEWAVE-Spotify-Clone[HTML and CSS]
+#  TUNEWAVE-Spotify-Clone[HTML and CSS]
 
 Designed and developed a visually appealing Spotify-inspired music player using HTML and CSS.
 Built a responsive and interactive UI with an intuitive layout for a seamless user experience.  
